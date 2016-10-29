@@ -1,5 +1,4 @@
 # UdacityP6
-Advanced Android Sample App
 ===================================
 
 Added Android watch face for the  [Advanced Android  app](https://github.com/udacity/Advanced_Android_Development) by [Udacity](https://github.com/udacity)
